@@ -5,5 +5,6 @@ console.log("Test for Git Reset");
 
 console.log("Test for Git Revert");
 
-
-console.log("Before Applying Stash");
+const understandStash = ()=>{
+    
+}
